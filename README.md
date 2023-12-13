@@ -8,6 +8,13 @@ Our primary objective is to uphold transparency and trust within the tech commun
 
 The repo contains all completed audit reports, organized by date and project name.
 
+### List of reports
+
+| Project Name                               | Date           | Auditor        |
+|--------------------------------------------|----------------|----------------|
+| Astar Account Unification (SS58 + H160)    | December 2023  | Quanstamp      |
+
+
 ### Contact
 
 For inquiries or specific questions regarding our finalized and in-progress audit reports feeel free to consult [Official Documentation](https://docs.astar.network/) and participate in discussions on [Astar Network Forum](https://forum.astar.network/)
