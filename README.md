@@ -12,7 +12,9 @@ The repo contains all completed audit reports, organized by date and project nam
 
 | Project Name                               | Date           | Auditor        |
 |--------------------------------------------|----------------|----------------|
+| [Metamask Snap Audit Report for Astar](https://github.com/AstarNetwork/Audits/blob/203c66b930490f6d8bc3d58577587e06204139f3/reports/2023-10%20-%20Astar%20Metamask%20Snap%20-%20Sayfer.pdf)    | October 2023  | Sayfer      |
 | [Astar Account Unification (SS58 + H160)](https://github.com/AstarNetwork/Audits/blob/09ac872613f3373a78328668ebcb0bfc04c64cf3/reports/2023-12%20-%20Astar%20Account%20Unification%20(SS58%20%2B%20H160)%20-%20Quantstamp.pdf)    | December 2023  | Quantstamp      |
+
 
 
 ### Contact
